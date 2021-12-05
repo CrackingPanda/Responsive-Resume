@@ -1,0 +1,29 @@
+﻿html {
+    scroll-behavior: smooth;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(asset.gif);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Raleway;
+}
+
+@font-face {
+    font-family: Uchen;
+    src: url(Uchen.ttf);
+}
+
+@font-face {
+    font-family: Raleway;
+    src: url(Raleway.ttf);
+}
+
+
